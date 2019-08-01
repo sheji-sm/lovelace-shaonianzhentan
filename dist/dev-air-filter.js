@@ -6990,7 +6990,7 @@ p{padding:0;margin:0;}
 <div class="op var-auto">
     <button>
     <span class="icon-waper">
-    <ha-icon icon="hass:power"></ha-icon>
+    <ha-icon icon="hass:brightness-auto"></ha-icon>
     </span>
       自动
     </button>
@@ -6998,7 +6998,7 @@ p{padding:0;margin:0;}
 <div class="op var-silent">
     <button>
     <span class="icon-waper">
-    <ha-icon icon="hass:power"></ha-icon>
+    <ha-icon icon="hass:power-sleep"></ha-icon>
       </span>
       睡眠
     </button>
@@ -7006,7 +7006,7 @@ p{padding:0;margin:0;}
 <div class="op var-favorite">
     <button>
     <span class="icon-waper">
-        <ha-icon icon="hass:power"></ha-icon>
+        <ha-icon icon="hass:heart"></ha-icon>
       </span>
       最爱
     </button>
