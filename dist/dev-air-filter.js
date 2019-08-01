@@ -6982,7 +6982,7 @@ p{padding:0;margin:0;}
 <div class="op var-state active">
     <button>
       <span class="icon-waper">
-        <ha-icon icon="hass:power"></ha-icon>
+        <iron-icon icon="mdi:power"></iron-icon>
       </span>
       开关
     </button>
@@ -6990,23 +6990,23 @@ p{padding:0;margin:0;}
 <div class="op var-auto">
     <button>
     <span class="icon-waper">
-    <ha-icon icon="hass:brightness-auto"></ha-icon>
+      <iron-icon icon="mdi:brightness-auto"></iron-icon>
     </span>
       自动
     </button>
 </div>
 <div class="op var-silent">
     <button>
-    <span class="icon-waper">
-    <ha-icon icon="hass:power-sleep"></ha-icon>
+      <span class="icon-waper">
+        <iron-icon icon="mdi:power-sleep"></iron-icon>
       </span>
       睡眠
     </button>
 </div>
 <div class="op var-favorite">
     <button>
-    <span class="icon-waper">
-        <ha-icon icon="hass:heart"></ha-icon>
+      <span class="icon-waper">
+        <iron-icon icon="mdi:heart"></iron-icon>
       </span>
       最爱
     </button>
